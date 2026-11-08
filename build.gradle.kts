@@ -8,6 +8,9 @@ group = "com.reviewcopilot"
 version = "0.1.0"
 
 repositories {
+    // Google's mirror of Maven Central first: Maven Central has been slow or timing out
+    // for some large artifacts (e.g. the Kotlin compiler jar) on CI runners.
+    maven("https://maven-central.storage-download.googleapis.com/maven2/")
     mavenCentral()
 }
 
