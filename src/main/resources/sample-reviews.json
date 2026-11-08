@@ -1,0 +1,221 @@
+{
+  "products": [
+    {
+      "id": "aurora-earbuds",
+      "name": "Aurora X2 Wireless Earbuds",
+      "category": "Audio"
+    },
+    {
+      "id": "breeze-airfryer",
+      "name": "Breeze 5L Air Fryer",
+      "category": "Kitchen"
+    },
+    {
+      "id": "nimbus-chair",
+      "name": "Nimbus Ergonomic Office Chair",
+      "category": "Furniture"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "earbuds-01",
+      "productId": "aurora-earbuds",
+      "rating": 5,
+      "title": "Amazing battery",
+      "text": "Battery easily lasts 8 hours of music and the case gives three more charges. Sound is clear with solid bass. Pairing with my phone was quick.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "earbuds-02",
+      "productId": "aurora-earbuds",
+      "rating": 4,
+      "title": "Great for the price",
+      "text": "Good sound quality and impressive noise cancelling for the price. The touch controls are a bit sensitive, I pause music by accident.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "earbuds-03",
+      "productId": "aurora-earbuds",
+      "rating": 2,
+      "title": "Left earbud disconnects",
+      "text": "The left earbud disconnects from bluetooth every few minutes on my laptop. Annoying lag when watching videos too.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "earbuds-04",
+      "productId": "aurora-earbuds",
+      "rating": 5,
+      "title": "Comfortable for running",
+      "text": "Comfortable fit, they never fall out of my ears when I run. Easy setup with the app.",
+      "verifiedPurchase": false
+    },
+    {
+      "id": "earbuds-05",
+      "productId": "aurora-earbuds",
+      "rating": 3,
+      "title": "Mic is poor",
+      "text": "Music sounds nice but the microphone is poor on calls, people say I sound far away. Battery is fine.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "earbuds-06",
+      "productId": "aurora-earbuds",
+      "rating": 1,
+      "title": "Case broke after a month",
+      "text": "The charging case hinge broke after one month and the plastic feels flimsy. Seller support took two weeks to reply about the warranty.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "earbuds-07",
+      "productId": "aurora-earbuds",
+      "rating": 4,
+      "title": "Solid everyday earbuds",
+      "text": "Solid build, fast charging over USB-C, and the case fits in a small pocket. Delivery arrived in two days.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "earbuds-08",
+      "productId": "aurora-earbuds",
+      "rating": 5,
+      "title": "Best value earbuds",
+      "text": "Best value I have found. Sound and battery both beat my old pair that cost twice the price.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "earbuds-09",
+      "productId": "aurora-earbuds",
+      "rating": 2,
+      "title": "Hurts after an hour",
+      "text": "The fit is not comfortable for me, my ears hurt after an hour even with the small tips.",
+      "verifiedPurchase": false
+    },
+    {
+      "id": "airfryer-01",
+      "productId": "breeze-airfryer",
+      "rating": 5,
+      "title": "Crispy fries every time",
+      "text": "Fries come out crispy and the chicken cooks evenly. Much faster than my oven. Very easy to use.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "airfryer-02",
+      "productId": "breeze-airfryer",
+      "rating": 4,
+      "title": "Great but a bit loud",
+      "text": "Cooks food evenly and the basket is dishwasher safe, which makes cleaning simple. The fan is loud though.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "airfryer-03",
+      "productId": "breeze-airfryer",
+      "rating": 2,
+      "title": "Coating is peeling",
+      "text": "After three months the non-stick coating on the basket started peeling. Disappointed for the price.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "airfryer-04",
+      "productId": "breeze-airfryer",
+      "rating": 5,
+      "title": "Perfect size for two",
+      "text": "Perfect size for two people. Easy controls and the presets work well. Delivery was fast and the box was well packed.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "airfryer-05",
+      "productId": "breeze-airfryer",
+      "rating": 3,
+      "title": "Plastic smell at first",
+      "text": "There was a strong plastic smell for the first few uses. It went away and now it cooks fine.",
+      "verifiedPurchase": false
+    },
+    {
+      "id": "airfryer-06",
+      "productId": "breeze-airfryer",
+      "rating": 1,
+      "title": "Arrived dented",
+      "text": "The package arrived dented and the fryer would not turn on. Refund took a long time, customer support was unhelpful.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "airfryer-07",
+      "productId": "breeze-airfryer",
+      "rating": 4,
+      "title": "Easy to clean",
+      "text": "Easy to clean and cooks evenly. The instructions are short but the app has good recipes.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "airfryer-08",
+      "productId": "breeze-airfryer",
+      "rating": 5,
+      "title": "Worth every baht",
+      "text": "Worth the money. I use it every day for chicken and vegetables and it is still quick and quiet enough for my small kitchen.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "chair-01",
+      "productId": "nimbus-chair",
+      "rating": 5,
+      "title": "Fixed my back pain",
+      "text": "The lumbar support is excellent and my back feels much better after long work days. Very comfortable seat cushion.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "chair-02",
+      "productId": "nimbus-chair",
+      "rating": 4,
+      "title": "Good chair, hard assembly",
+      "text": "Comfortable and sturdy chair, but assembly was hard and the instructions were confusing. Took me an hour.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "chair-03",
+      "productId": "nimbus-chair",
+      "rating": 2,
+      "title": "Squeaks after two weeks",
+      "text": "The chair started to squeak after two weeks whenever I lean back. Annoying in video calls.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "chair-04",
+      "productId": "nimbus-chair",
+      "rating": 5,
+      "title": "Great armrests",
+      "text": "The adjustable armrests and headrest are great. Build quality feels durable and solid for the price.",
+      "verifiedPurchase": false
+    },
+    {
+      "id": "chair-05",
+      "productId": "nimbus-chair",
+      "rating": 3,
+      "title": "Seat too firm",
+      "text": "Good back support but the seat cushion is too firm for me. Fine for a few hours.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "chair-06",
+      "productId": "nimbus-chair",
+      "rating": 1,
+      "title": "Broken part in the box",
+      "text": "One armrest arrived cracked and the box was damaged. Waiting three weeks for a replacement from the seller.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "chair-07",
+      "productId": "nimbus-chair",
+      "rating": 4,
+      "title": "Good value",
+      "text": "Good value compared with expensive brands. Mesh back keeps me cool and the wheels are quiet on wood floors.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "chair-08",
+      "productId": "nimbus-chair",
+      "rating": 4,
+      "title": "Comfortable for gaming",
+      "text": "Comfortable for long gaming sessions and easy to adjust the height. Delivery was quick.",
+      "verifiedPurchase": true
+    }
+  ]
+}
